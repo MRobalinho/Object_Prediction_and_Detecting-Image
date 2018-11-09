@@ -4,14 +4,14 @@
 ### 1.1 Prerequisite Dependencies
 As described by on ImageAI’s Github, multiple Python dependencies need to be installed:
 
->Tensorflow 
->Numpy 
->SciPy 
->OpenCV 
->Pillow 
->Matplotlib 
->h5py 
->Keras
+><br/>Tensorflow 
+><br/>Numpy 
+><br/>SciPy 
+><br/>OpenCV 
+><br/>Pillow 
+><br/>Matplotlib 
+><br/>h5py 
+><br/>Keras
 
 
 All packages can be easily installed by command:
@@ -28,15 +28,15 @@ All packages can be easily installed by command:
 Two models are adopted as in the examples prediction and detection.
 
 
->Prediction : resnet50_weights_tf_dim_ordering_tf_kernels.h5 - can be downloaded at fchollet’s deep-learning-models here 
->Detection: resnet50_coco_best_v2.1.0.h5 - can be downloaded at fizyr’s keras-retinanet here
+><br/>Prediction : resnet50_weights_tf_dim_ordering_tf_kernels.h5 - can be downloaded at fchollet’s deep-learning-models here 
+><br/>Detection: resnet50_coco_best_v2.1.0.h5 - can be downloaded at fizyr’s keras-retinanet here
 
 ## 2.1 Prediction
 ### Simple examples are given at here
 
 ImageAI provides 4 different algorithms and model types to perform image prediction. To perform image prediction on any picture, take the following simple steps. The 4 algorithms provided for image prediction include SqueezeNet, ResNet, InceptionV3 and DenseNet. Each of these algorithms have individual model files which you must use depending on the choice of your algorithm. To download the model file for your choice of algorithm, click on any of the links below:
 
->SqueezeNet (Size = 4.82 mb, fastest prediction time and moderate accuracy)
->ResNet50 by Microsoft Research (Size = 98 mb, fast prediction time and high accuracy)
->InceptionV3 by Google Brain team (Size = 91.6 mb, slow prediction time and higher accuracy)
->DenseNet121 by Facebook AI Research (Size = 31.6 mb, slower prediction time and highest accuracy)
+><br/>SqueezeNet (Size = 4.82 mb, fastest prediction time and moderate accuracy)
+><br/>ResNet50 by Microsoft Research (Size = 98 mb, fast prediction time and high accuracy)
+><br/>InceptionV3 by Google Brain team (Size = 91.6 mb, slow prediction time and higher accuracy)
+><br/>DenseNet121 by Facebook AI Research (Size = 31.6 mb, slower prediction time and highest accuracy)

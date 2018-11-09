@@ -40,3 +40,6 @@ ImageAI provides 4 different algorithms and model types to perform image predict
 ><br/>ResNet50 by Microsoft Research (Size = 98 mb, fast prediction time and high accuracy)
 ><br/>InceptionV3 by Google Brain team (Size = 91.6 mb, slow prediction time and higher accuracy)
 ><br/>DenseNet121 by Facebook AI Research (Size = 31.6 mb, slower prediction time and highest accuracy)
+
+
+![](image/3037726_Oxford_Street.jpg_output.jpg?raw=true)

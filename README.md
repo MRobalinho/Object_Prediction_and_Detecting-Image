@@ -28,8 +28,8 @@ All packages can be easily installed by command:
 Two models are adopted as in the examples prediction and detection.
 
 
-><br/>Prediction : resnet50_weights_tf_dim_ordering_tf_kernels.h5 - can be downloaded at fchollet’s deep-learning-models here 
-><br/>Detection: resnet50_coco_best_v2.1.0.h5 - can be downloaded at fizyr’s keras-retinanet here
+><br/>Prediction : resnet50_weights_tf_dim_ordering_tf_kernels.h5 - can be downloaded at fchollet’s deep-learning-models here: https://github.com/fchollet/deep-learning-models/releases 
+><br/>Detection: resnet50_coco_best_v2.1.0.h5 - can be downloaded at fizyr’s keras-retinanet here: https://github.com/fizyr/keras-retinanet/releases
 
 ## 2.1 Prediction
 ### Simple examples are given at here
@@ -41,5 +41,9 @@ ImageAI provides 4 different algorithms and model types to perform image predict
 ><br/>InceptionV3 by Google Brain team (Size = 91.6 mb, slow prediction time and higher accuracy)
 ><br/>DenseNet121 by Facebook AI Research (Size = 31.6 mb, slower prediction time and highest accuracy)
 
+## 2.2 Detection
+### Simple examples are given at:
+
+https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection.
 
 ![](image/3037726_Oxford_Street.jpg_output.jpg?raw=true)
